@@ -1,7 +1,7 @@
 {
   "short_name": "Drum Machine",
   "name": "Drum Machine",
-"icons": [
+  "icons": [
     {
       "src": "logo.png",
       "sizes": "128x128",
